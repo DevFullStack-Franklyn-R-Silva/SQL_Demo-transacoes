@@ -1,2 +1,8 @@
 # SQL_Demo-transacoes
-API: setAutoCommit(false), commit(), rollback()
+API: 
+
+setAutoCommit(false),
+
+commit(),
+
+rollback()
